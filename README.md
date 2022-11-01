@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashley
 
-<!--
-**hermana/hermana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+📫 : ashley.herman@proton.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my personal account for :sparkles: fun :sparkles: projects only! My professional/work account is @hermanashley. 
+
+Some topics I'm interested in are:
+
+- Machine learning and MLOps
+- Gamification and gameful design 
+- Civic and community-oriented technology
+
+Feel free to reach out if you want to collaborate :v:
+
+<a href="https://twitter.com/trashleycodes">
+  <img align="left" alt="Twitter" width="21px" style="padding:10px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hermanashley/">
+  <img align="left" alt="Ashley Herman Linkedin" width="21px"  style="padding:10px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
