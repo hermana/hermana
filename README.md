@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ashley
+### Hi! :wave: :woman: I'm Ashley
 
 😄 Pronouns: she/her
 
