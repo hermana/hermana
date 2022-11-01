@@ -4,7 +4,7 @@
 
 📫 : ashley.herman@proton.me
 
-This is my personal account for :sparkles: fun :sparkles: projects only! My professional/work account is @hermanashley. 
+This is my personal account for :sparkles: fun :sparkles: projects only! My professional/work account is [@hermanashley](https://github.com/hermanashley). 
 
 Some topics I'm interested in are:
 
