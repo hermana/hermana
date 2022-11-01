@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her
 
-📫 : ashley.herman@proton.me
+📫 ashley.herman@proton.me
 
 This is my personal account for :sparkles: fun :sparkles: projects only! My professional/work account is [@hermanashley](https://github.com/hermanashley). 
 
